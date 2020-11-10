@@ -6,10 +6,17 @@ watch here...
 
 https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=7s&ab_channel=freeCodeCamp.org
 
+## Getting started
+
+`git clone https://github.com/ChandaHubbard/Build-15-Basic-React-Projects`
+`npm install`
+`npm start`
+
+#
+### 1. <b>Birthday Reminder</b> ([code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/1-birthday-reminder/setup) | [example](https://react-projects-1-birthday-reminder.netlify.app/))
+
 
 <!--  
-#
-### 1. <b>Color Flipper</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/1-color-flipper) | [example](https://vannilla-js-basic-project-1-background-color.netlify.app/))
 #
 ### 2. <b>Simple Counter</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/2-counter) | [example](https://vanilla-js-basic-project-2-simple-counter.netlify.app/))
 #
@@ -46,7 +53,6 @@ https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=7s&ab_channel=freeCodeCamp.org
   - save data in `localStorage
 #
 ### 15. <b>Image Slideshow</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/15-slider) | [example](https://vannilla-js-basic-project-15-slider.netlify.app/))
-
   - create image carousel with `Next` & `Prev` buttons
   - implement counter
   - dynamically update CSS styles with JavaScript
