@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=7s&ab_channel=freeCodeCamp.org
 
 `npm start`
 
-#
+## Projects
 ### 1. <b>Birthday Reminder</b> ([code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/1-birthday-reminder/setup) | [example](https://react-projects-1-birthday-reminder.netlify.app/))
 
 
