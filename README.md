@@ -9,7 +9,9 @@ https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=7s&ab_channel=freeCodeCamp.org
 ## Getting started
 
 `git clone https://github.com/ChandaHubbard/Build-15-Basic-React-Projects`
+
 `npm install`
+
 `npm start`
 
 #
