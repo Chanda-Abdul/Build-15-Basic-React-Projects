@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=7s&ab_channel=freeCodeCamp.org
 `npm install`
 
 `npm start`
+#
 
 #### Tutorial Video
 
@@ -22,16 +23,17 @@ https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=7s&ab_channel=freeCodeCamp.org
 
 [Projects Site](https://react-projects.netlify.app/)
 
-## Corresponding Tutorial Topics
+## Tutorial Topics
 
-#### useState
+### useState
 
-### 1. <b>Birthday Reminder</b> 
- ([code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects) | [example](https://react-projects-1-birthday-reminder.netlify.app/))
+<b> 1. Birthday Reminder</b> ([code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/1-birthday-reminder) | [example](https://react-projects-1-birthday-reminder.netlify.app/))
 
-<!-- #### useEffect and Conditional Rendering
+### useEffect and Conditional Rendering
 
-2. Tours
+<b>2. Tours</b> ([code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/2-tours/setup) | [example](https://react-projects-2-tours.netlify.app/))
+
+<!-- 
 3. Reviews
 4. Questions
 5. Menu
