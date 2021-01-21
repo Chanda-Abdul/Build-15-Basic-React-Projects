@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=7s&ab_channel=freeCodeCamp.org
 
 ### useState and Conditional Rendering
 
-<b>3. Reviews</b> ([My code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/3-reviews) | [example](https://react-projects-3-reviews.netlify.app/))
+<b>3. Reviews Carousel</b> ([My code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/3-reviews) | [example](https://react-projects-3-reviews.netlify.app/))
 
 <b>4. Frequently Asked Questions</b> ([My code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/4-accordion) | [example](https://react-projects-4-accordion.netlify.app/))
 
