@@ -31,17 +31,17 @@ https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=7s&ab_channel=freeCodeCamp.org
 
 ### useEffect 
 
-<b>2. Tours</b> ([My code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/2-tours/setup) | [example](https://react-projects-2-tours.netlify.app/))
+<b>2. Tours</b> ([My code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/2-tours) | [example](https://react-projects-2-tours.netlify.app/))
 
-### useEffect and Conditional Rendering
+### useState and Conditional Rendering
 
 <b>3. Reviews</b> ([My code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/3-reviews) | [example](https://react-projects-3-reviews.netlify.app/))
 
 <b>4. Questions</b> ([My code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/4-accordion) | [example](https://react-projects-4-accordion.netlify.app/))
 
+<b>5. Dynamic Restauraunt Menu</b> ([My code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/5-menu) | [example](https://react-projects-5-menu.netlify.app/))
 
 <!-- 
-5. Menu
 6. Tabs
 7. Slider
 
