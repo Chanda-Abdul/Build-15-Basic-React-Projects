@@ -1,10 +1,10 @@
 # Build-15-Basic-React-Projects
 
-A repository for https://react-projects.netlify.app/ as I code along
+A repository for [John Smilga's 15 Basic React Project Tutorial](https://react-projects.netlify.app/) as I code along
 
-watch here...
+watch [here](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=7s&ab_channel=freeCodeCamp.org)...
 
-https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=7s&ab_channel=freeCodeCamp.org
+
 
 ## Getting started
 
