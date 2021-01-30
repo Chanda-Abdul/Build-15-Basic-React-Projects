@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=7s&ab_channel=freeCodeCamp.org
 
 <b>5. Dynamic Restauraunt Menu</b> ([My code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/5-menu) | [example](https://react-projects-5-menu.netlify.app/))
 
-<b>5. Dynamic Resume Tabs</b> ([My code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/6-tabs) | [example](https://react-projects-6-tabs.netlify.app/))
+<b>6. Dynamic Resume Tabs</b> ([My code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/6-tabs) | [example](https://react-projects-6-tabs.netlify.app/))
 
 
 
