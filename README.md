@@ -25,15 +25,15 @@ watch [here](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=7s&ab_channel=freeCod
 
 ## Tutorial Topics
 
-### useState
+### `useState`
 
 <b> 1. Birthday Reminder</b> ([My code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/1-birthday-reminder) | [example](https://react-projects-1-birthday-reminder.netlify.app/))
 
-### useEffect 
+### `useEffect` 
 
 <b>2. Tours</b> ([My code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/2-tours) | [example](https://react-projects-2-tours.netlify.app/))
 
-### useState and Conditional Rendering
+### `useState` and Conditional Rendering
 
 <b>3. Reviews Carousel</b> ([My code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/3-reviews) | [example](https://react-projects-3-reviews.netlify.app/))
 
@@ -43,13 +43,12 @@ watch [here](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=7s&ab_channel=freeCod
 
 <b>6. Dynamic Resume Tabs</b> ([My code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/6-tabs) | [example](https://react-projects-6-tabs.netlify.app/))
 
+### `useState`, `useEffect` and Conditional Rendering
+<b>7. Slider</b> ([My code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/7-slider) | [example](https://react-projects-7-slider.netlify.app/))
 
 
+### Forms
 <!-- 
-7. Slider
-
-#### Forms
-
 8. Lorem Ipsum Generator
 9. Color Shades Generator
 10. Grocery Bud
