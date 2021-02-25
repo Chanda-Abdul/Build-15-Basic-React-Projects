@@ -4,4 +4,4 @@
 
 [Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
 
--[ ] move `app.js` into seperate components
+- [ ] move `app.js` into seperate components
