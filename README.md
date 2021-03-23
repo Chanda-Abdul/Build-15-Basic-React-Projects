@@ -46,10 +46,12 @@ watch [here](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=7s&ab_channel=freeCod
 ### `useState`, `useEffect` and Conditional Rendering
 <b>7. Slider</b> ([My code](https://github.com/ChandaHubbard/Build-15-Basic-React-Projects/tree/main/7-slider) | [example](https://react-projects-7-slider.netlify.app/))
 
+<b>8. Lorem Ipsum Generator</b>
+
 
 ### Forms
 <!-- 
-8. Lorem Ipsum Generator
+
 9. Color Shades Generator
 10. Grocery Bud
 
