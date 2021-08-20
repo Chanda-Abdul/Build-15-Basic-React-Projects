@@ -46,11 +46,14 @@ watch [here](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=7s&ab_channel=freeCod
 
 <b>11. Navbar</b>([My code](https://github.com/Chanda-Abdul/Build-15-Basic-React-Projects/tree/main/11-navbar) | [example](https://react-projects-11-navbar.netlify.app/))
 
-<!-- 
 #
-### useContext
+### `useContext`
 
-12. Modal And Sidebar
+<b>12. Modal And Sidebar</b>
+([My code](https://github.com/Chanda-Abdul/Build-15-Basic-React-Projects/tree/main/12-sidebar-modal)| [example](https://react-projects-12-sidebar-modal.netlify.app/))
+
+<!-- 
+
 13. Stripe Submenus
 
 #### useReducer and useContext
