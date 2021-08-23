@@ -52,9 +52,11 @@ watch [here](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=7s&ab_channel=freeCod
 <b>12. Modal And Sidebar</b>
 ([My code](https://github.com/Chanda-Abdul/Build-15-Basic-React-Projects/tree/main/12-sidebar-modal)| [example](https://react-projects-12-sidebar-modal.netlify.app/))
 
-<!-- 
+<b>13. Stripe Submenus</b>
+([My code](https://github.com/Chanda-Abdul/Build-15-Basic-React-Projects/tree/main/13-stripe-submenus)| [example](https://react-projects-13-stripe-submenus.netlify.app/))
 
-13. Stripe Submenus
+
+<!-- 
 
 #### useReducer and useContext
 
