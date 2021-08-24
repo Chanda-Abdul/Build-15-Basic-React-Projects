@@ -54,13 +54,15 @@ watch [here](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=7s&ab_channel=freeCod
 
 <b>13. Stripe Submenus</b>
 ([My code](https://github.com/Chanda-Abdul/Build-15-Basic-React-Projects/tree/main/13-stripe-submenus)| [example](https://react-projects-13-stripe-submenus.netlify.app/))
+#
+
+#### `useReducer` and `useContext`
+
+<b>14. Cart</b>([My code](https://github.com/Chanda-Abdul/Build-15-Basic-React-Projects/tree/main/14-cart)| [example](https://react-projects-14-usereducer-cart.netlify.app/))
 
 
 <!-- 
 
-#### useReducer and useContext
-
-14. Cart
 
 #### React Router and useCallback
 
