@@ -56,18 +56,15 @@ watch [here](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=7s&ab_channel=freeCod
 ([My code](https://github.com/Chanda-Abdul/Build-15-Basic-React-Projects/tree/main/13-stripe-submenus)| [example](https://react-projects-13-stripe-submenus.netlify.app/))
 #
 
-#### `useReducer` and `useContext`
+### `useReducer` and `useContext`
 
 <b>14. Cart</b>([My code](https://github.com/Chanda-Abdul/Build-15-Basic-React-Projects/tree/main/14-cart)| [example](https://react-projects-14-usereducer-cart.netlify.app/))
+#
+### React Router and `useCallback`
 
+<b>15. Cocktails</b>([My code](https://github.com/Chanda-Abdul/Build-15-Basic-React-Projects/tree/main/15-cocktails)| [example](https://react-projects-15-cocktails.netlify.app/))
 
-<!-- 
-
-
-#### React Router and useCallback
-
-15. Cocktails
-
+#
 ## Advanced Projects (Course Exclusive)
 
 [Course Link](https://www.udemy.com/course/react-tutorial-and-projects-course/?couponCode=REACT-OCT)
@@ -80,6 +77,16 @@ watch [here](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=7s&ab_channel=freeCod
 21. Movie DB
 22. Hacker News
 23. Quiz
+
+<!-- 
+
+
+
+
+
+
+
+
 
  -->
 ## Getting started
